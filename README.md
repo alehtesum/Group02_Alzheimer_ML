@@ -1,3 +1,9 @@
+
+<p align="center">
+  <img src="Images/_brain.jpg
+</p>
+
+# EEG-Based Alzheimer's Disease Classification
 # EEG-Based Alzheimer's Disease Classification
 
 ## Group Information
