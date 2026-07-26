@@ -1,6 +1,6 @@
-
-<p align="center">4  <img src="man.png"r's Disease" width="700">5</p>6 
-
+<p align="center">
+  <img src="man.png" alt="Alzheimer's Disease" width="600">
+</p>
 # EEG-Based Alzheimer's Disease Classification
 # EEG-Based Alzheimer's Disease Classification
 
