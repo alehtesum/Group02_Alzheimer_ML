@@ -7,6 +7,17 @@
 ## Group Information
 
 - **Group:** Group 02
+- ## Group Member
+Md. Al Ehtesum korim(ID: 2025-2-96-016)
+
+Sadika Parvin Mumu(ID: 2026-2-74-010)
+
+Department of Computer Science and Engineering
+
+East West University
+
+Dhaka, Bangladesh
+
 - **Track:** Graph Neural Network (GNN) + Attention
 - **Objective:** Classify Alzheimer's Disease (AD) and Healthy Control (HC) EEG recordings.
 
@@ -160,17 +171,3 @@ The EEG signals are modeled as a graph.
 └── README.md
 ```
 
----
-
-## Group Member
-
-**Group 02**
-Md. Al Ehtesum korim(ID: 2025-2-96-016)
-
-Sadika Parvin Mumu(ID: 2026-2-74-010)
-
-Department of Computer Science and Engineering
-
-East West University
-
-Dhaka, Bangladesh
