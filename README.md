@@ -56,7 +56,6 @@ Vicchietti, M. L., Ramos, F. M., Betting, L. E., and Campanharo, A. S. L. O.
 DOI: [10.17605/OSF.IO/2V5MD](https://doi.org/10.17605/OSF.IO/2V5MD)
 Online: [https://osf.io/2v5md/?view_only=](https://osf.io/2v5md/?view_only=)
 
-> **Note:** The raw EEG datasets are not fully open by default. They are available upon request directly from the original authors via the OSF project pages linked above.
 
 ## Dataset 1
 
