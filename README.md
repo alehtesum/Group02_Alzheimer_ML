@@ -6,7 +6,7 @@
 
 ## Group Information
 
-- Group: Group 02
+Group 02
   
 Md. Al Ehtesum korim(ID: 2025-2-96-016)
 
