@@ -1,12 +1,23 @@
 <p align="center">
   <img src="man.png" alt="Alzheimer's Disease" width="600">
 </p>
-# EEG-Based Alzheimer's Disease Classification
+
 # EEG-Based Alzheimer's Disease Classification
 
 ## Group Information
 
-- **Group:** Group 02
+Group 02
+  
+Md. AL Ehtesum korim (ID: 2025-2-96-016)
+
+Sadika Parvin Mumu (ID: 2026-2-74-010)
+
+Department of Computer Science and Engineering
+
+East West University
+
+---
+## Project Track
 - **Track:** Graph Neural Network (GNN) + Attention
 - **Objective:** Classify Alzheimer's Disease (AD) and Healthy Control (HC) EEG recordings.
 
@@ -28,6 +39,23 @@ The workflow includes:
 ---
 
 # Datasets
+
+## Data Sources
+
+This project uses two EEG datasets for Alzheimer's disease classification research:
+
+**Dataset 1**
+Campanharo, A. S. L. O., Ramos, F. M., Pineda, A. M., and Betting, L. E.
+"Data from: Quantile Graphs for EEG-Based Diagnosis of Alzheimer's Disease," 2020.
+DOI: [10.17605/OSF.IO/S74QF](https://doi.org/10.17605/OSF.IO/S74QF)
+Online: [https://osf.io/pa38y](https://osf.io/pa38y)
+
+**Dataset 2**
+Vicchietti, M. L., Ramos, F. M., Betting, L. E., and Campanharo, A. S. L. O.
+"Data from: Computational Methods of EEG Signals Analysis for Alzheimer's Disease Classification," 2023.
+DOI: [10.17605/OSF.IO/2V5MD](https://doi.org/10.17605/OSF.IO/2V5MD)
+Online: [https://osf.io/2v5md/?view_only=](https://osf.io/2v5md/?view_only=)
+
 
 ## Dataset 1
 
@@ -159,15 +187,8 @@ The EEG signals are modeled as a graph.
 ├── Report/
 └── README.md
 ```
+## References
 
----
+1. Campanharo, A. S. L. O., Ramos, F. M., Pineda, A. M., & Betting, L. E. (2020). *Data from: Quantile graphs for EEG-based diagnosis of Alzheimer's disease* [Data set]. OSF. https://doi.org/10.17605/OSF.IO/S74QF
 
-## Authors
-
-**Group 02**
-
-Department of Computer Science and Engineering
-
-East West University
-
-Dhaka, Bangladesh
+2. Vicchietti, M. L., Ramos, F. M., Betting, L. E., & Campanharo, A. S. L. O. (2023). *Data from: Computational methods of EEG signals analysis for Alzheimer's disease classification* [Data set]. OSF. https://doi.org/10.17605/OSF.IO/2V5MD
