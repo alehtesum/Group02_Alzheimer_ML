@@ -14,9 +14,8 @@ Sadika Parvin Mumu(ID: 2026-2-74-010)
 
 Department of Computer Science and Engineering
 
-East West University
 ---
-Project Track
+##Project Track
 - **Track:** Graph Neural Network (GNN) + Attention
 - **Objective:** Classify Alzheimer's Disease (AD) and Healthy Control (HC) EEG recordings.
 
