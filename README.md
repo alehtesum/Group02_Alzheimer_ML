@@ -187,4 +187,8 @@ The EEG signals are modeled as a graph.
 ├── Report/
 └── README.md
 ```
+## References
 
+1. Campanharo, A. S. L. O., Ramos, F. M., Pineda, A. M., & Betting, L. E. (2020). *Data from: Quantile graphs for EEG-based diagnosis of Alzheimer's disease* [Data set]. OSF. https://doi.org/10.17605/OSF.IO/S74QF
+
+2. Vicchietti, M. L., Ramos, F. M., Betting, L. E., & Campanharo, A. S. L. O. (2023). *Data from: Computational methods of EEG signals analysis for Alzheimer's disease classification* [Data set]. OSF. https://doi.org/10.17605/OSF.IO/2V5MD
