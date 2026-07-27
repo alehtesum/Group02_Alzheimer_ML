@@ -8,11 +8,13 @@
 
 Group 02
   
-Md. Al Ehtesum korim(ID: 2025-2-96-016)
+Md. AL Ehtesum korim (ID: 2025-2-96-016)
 
-Sadika Parvin Mumu(ID: 2026-2-74-010)
+Sadika Parvin Mumu (ID: 2026-2-74-010)
 
 Department of Computer Science and Engineering
+
+East West University
 
 ---
 ##Project Track
