@@ -15,8 +15,6 @@ Sadika Parvin Mumu(ID: 2026-2-74-010)
 Department of Computer Science and Engineering
 
 East West University
-
-Dhaka, Bangladesh
 ---
 Project Track
 - **Track:** Graph Neural Network (GNN) + Attention
