@@ -1,13 +1,12 @@
 <p align="center">
   <img src="man.png" alt="Alzheimer's Disease" width="600">
 </p>
-# EEG-Based Alzheimer's Disease Classification
+
 # EEG-Based Alzheimer's Disease Classification
 
 ## Group Information
 
 - **Group:** Group 02
-- ## Group Member
 Md. Al Ehtesum korim(ID: 2025-2-96-016)
 
 Sadika Parvin Mumu(ID: 2026-2-74-010)
